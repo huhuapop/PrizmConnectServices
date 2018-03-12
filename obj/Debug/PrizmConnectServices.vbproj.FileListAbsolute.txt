@@ -1,0 +1,3 @@
+C:\HU\Code\2003\PrizmConnectServices\bin\Debug\PrizmConnectServices.exe.config
+C:\HU\Code\2003\PrizmConnectServices\obj\Debug\PrizmConnectServices.exe
+C:\HU\Code\2003\PrizmConnectServices\obj\Debug\PrizmConnectServices.pdb
